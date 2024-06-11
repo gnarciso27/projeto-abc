@@ -1,0 +1,21 @@
+.cabecalho{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background: #000;
+    margin: 0;
+    height: 90px;
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px solid #ca992c;
+    position: relative;
+    z-index: 1000;
+    min-height: 50px;
+    
+    
+}
+.logo{
+    width: 90px;
+    margin-left: 100px;
+    margin-top: 90px;
+}

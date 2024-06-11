@@ -1,0 +1,16 @@
+.menu__link{
+    margin-right: 1.25rem;
+    color: #ffffff;
+    text-transform:uppercase;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+.menu__link.ativo{
+    color: #fed004;
+    font-weight: bold;
+}
+.menu__link:hover {
+    text-decoration: underline;
+}

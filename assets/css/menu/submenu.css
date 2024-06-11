@@ -1,0 +1,14 @@
+.submenu{
+    display: none; /* Esconde o submenu por padrão */
+    position: absolute;
+    top: 80%; /* Posiciona o submenu abaixo do item principal */
+    background: #f9f9f9;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-shadow: 0 8px 16px rgba(0,0,0,1); 
+    border-radius: 5px;
+}
+.submenu.ativo{
+    display: block;
+}

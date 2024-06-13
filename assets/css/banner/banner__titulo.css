@@ -1,0 +1,10 @@
+.banner__titulo{
+    position: absolute;   
+    width: 100%;
+    top: 39%;
+    font-size: 4rem;
+    color: #fed004;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000, 0 0 50px #000;
+}

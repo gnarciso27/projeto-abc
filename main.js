@@ -3,5 +3,4 @@ let submenu = document.querySelector('.submenu');
 
 historia.onclick = function() {
     submenu.classList.toggle('ativo');
-    console.log("ativo")
 }
